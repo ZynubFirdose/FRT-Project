@@ -1,44 +1,35 @@
-# ✨ Football Club ✨
+Hii..This is ZynubFirdose...Here is about my Mscloud project
 
-This is a web based application developed for Football related website in india
+✨Project Name: Football Club ✨
 
-### This web based lifestyle application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+Github Respoistory Link - https://github.com/ZynubFirdose/FRT-project
 
+Project Link - 
 
-Project Link - https://nice-rock-02cb69900.2.azurestaticapps.net
+Project Demo video URL - 
 
+Industry Name - Lifestyle
 
+* Project Title * - Football Club
 
-Project demo video link -
+* Problem Statement/Opportunity * - In Association football, a football club is a sports club that acts as an entity through which association football teams organise their sporting activities.
 
+* Project Description * - Building strength, stamina and speed. Training your brain, improving concentration and coordination. Promoting teamwork, being social and boosting your confidence.The complexity of training undertaken by a footballer means that they not only utilise their aerobic system, but their anaerobic system during a game too.The actions performed in football are a result of multi-joint, multi-muscle movements, with muscles coordinating with each other to produce efficient movement, multi-directional forces and a stable structure to produce them movements. Therefore, football strength programmes will be designed around these movements.
 
-## Features and Functionalities 😃
+* Primary Azure Technology * - Health Bot, Static Web Apps, Web Apps,
 
-- Interactive and responsive UI.
-- Has many graphical and visual innovative effects.
-- Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About, Pages - Web icons,short code, Gallery, Contact, Healthbot topics and football related information etc.
-- User can know about football information through this website.
-- Included the feedback Survey form to increase the scope of improvement 
+* Other Azure Technologies * -  HTML, CSS, Bootstrap, JavaScript
 
-## Screenshots
-
-
-
-
-
-
-### Home -
+ * My Project Sreenshots * 
+ 
+ ### Home -
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/114640204/208718428-1a3388da-9de0-4002-9cc2-22792341cc81.png)
-
 
 
 ### About -
 
 ![Screenshot (18)](https://user-images.githubusercontent.com/114640204/208719892-1340cebe-563a-4f5b-8440-9bf1f823ec3d.png)
-
-
 
 
 ### Pages -
@@ -50,7 +41,6 @@ Project demo video link -
 
 
 
-
 ### Short Codes - 
 
 ![Screenshot (20)](https://user-images.githubusercontent.com/114640204/208723281-5b8c3e57-a768-49a7-a48a-79de516d31c6.png)
@@ -59,7 +49,6 @@ Project demo video link -
 ### Gallery -
 
 ![Screenshot (21)](https://user-images.githubusercontent.com/114640204/208724150-bc3bcb14-4a8e-4b36-99bc-acf1ca286793.png)
-
 
 
 
@@ -79,22 +68,8 @@ Project demo video link -
 ![Screenshot (24)](https://user-images.githubusercontent.com/114640204/208727045-b23604ad-a6cf-4d99-af60-eb2760a30957.png)
 
 
-
 ### Azure Static Web App -
 
 ![Screenshot (35)](https://user-images.githubusercontent.com/114640204/209471939-66e5f927-2c82-4c1c-a790-0b81d0cc2f3c.png)
 
-
-
-## Tech Stack 💻
-
-- [Azure(Hosting)]
-
-- HTML
-
-- CSS
-
-- Bootstrap
-
- - JavaScript
- 
+THANK YOU
