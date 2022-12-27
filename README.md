@@ -2,19 +2,20 @@ Hii..This is ZynubFirdose...Here is about my Mscloud project
 
 ✨Project Name: Football Club ✨
 
-Github Respoistory Link - https://github.com/ZynubFirdose/FRT-project
+* Github Respoistory Link * - https://github.com/ZynubFirdose/FRT-project
+* Project Link * - https://nice-rock-02cb69900.2.azurestaticapps.net
+* Project Demo video URL * - 
 
-Project Link - 
 
-Project Demo video URL - 
-
-Industry Name - Lifestyle
+* Industry Name * - Lifestyle
 
 * Project Title * - Football Club
 
-* Problem Statement/Opportunity * - In Association football, a football club is a sports club that acts as an entity through which association football teams organise their sporting activities.
+* Problem Statement/Opportunity * - In Association football, a football club is a sports club that acts as an entity through which association football teams organise 
+                                    their sporting activities.
 
-* Project Description * - Building strength, stamina and speed. Training your brain, improving concentration and coordination. Promoting teamwork, being social and boosting your confidence.The complexity of training undertaken by a footballer means that they not only utilise their aerobic system, but their anaerobic system during a game too.The actions performed in football are a result of multi-joint, multi-muscle movements, with muscles coordinating with each other to produce efficient movement, multi-directional forces and a stable structure to produce them movements. Therefore, football strength programmes will be designed around these movements.
+* Project Description * - Building strength, stamina and speed. Training your brain, improving concentration and coordination. Promoting teamwork, being social and                               boosting your confidence.The complexity of training undertaken by a footballer means that they not only utilise their aerobic system, but                               their anaerobic system during a game too.The actions performed in football are a result of multi-joint, multi-muscle movements, with muscles 
+                          coordinating with each other to produce efficient movement, multi-directional forces and a stable structure to produce them movements.                                 Therefore, football strength programmes will be designed around these movements.
 
 * Primary Azure Technology * - Health Bot, Static Web Apps, Web Apps,
 
@@ -68,7 +69,7 @@ Industry Name - Lifestyle
 ![Screenshot (24)](https://user-images.githubusercontent.com/114640204/208727045-b23604ad-a6cf-4d99-af60-eb2760a30957.png)
 
 
-### Azure Static Web App -
+### Azure Static Web AppS -
 
 ![Screenshot (35)](https://user-images.githubusercontent.com/114640204/209471939-66e5f927-2c82-4c1c-a790-0b81d0cc2f3c.png)
 
