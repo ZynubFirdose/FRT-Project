@@ -3,8 +3,10 @@ Hii..This is ZynubFirdose...Here is about my Mscloud project
 ✨Project Name: Football Club ✨
 
 * Github Respoistory Link * - https://github.com/ZynubFirdose/FRT-project
+
 * Project Link * - https://nice-rock-02cb69900.2.azurestaticapps.net
-* Project Demo video URL * - 
+
+* Project Demo video URL * - https://youtu.be/Z7h7y3_ix9w
 
 
 * Industry Name * - Lifestyle
