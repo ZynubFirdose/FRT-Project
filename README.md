@@ -2,7 +2,7 @@ Hii..This is ZynubFirdose...Here is about my Mscloud project
 
 ✨Project Name: Football Club ✨
 
-* Github Respoistory Link * - https://github.com/ZynubFirdose/FRT-project
+* Github Repository Link * - https://github.com/ZynubFirdose/FRT-project
 
 * Project Link * - https://nice-rock-02cb69900.2.azurestaticapps.net
 
